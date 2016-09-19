@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 92775f4e60af803409f7f68a5e16641b
+timeCreated: 1473389537
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - paddlePrefab: {fileID: 192606, guid: 6617ec52701270044adddaf2b225d108, type: 2}
+  - capsulePrefab: {fileID: 116808, guid: c9023127a8b51d74493c7ea71c96132c, type: 2}
+  - particlePrefab: {fileID: 172378, guid: c91b6f553148f274aaf53939c1cb4b5c, type: 2}
+  - scoreText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
